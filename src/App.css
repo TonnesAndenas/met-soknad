@@ -1,0 +1,8 @@
+#root {
+  min-width: 100%;
+  min-height: 100vh;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 12px;
+  background-image: url("https://www.met.no/_/asset/no.met.metno:0000018aac718760/images/background-waves.png");
+}
